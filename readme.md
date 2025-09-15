@@ -1,4 +1,4 @@
-\# art-portfolio
+# art-portfolio
 
 I paint (oil, watercolor, gouache, begrudgingly acrylic)
 
